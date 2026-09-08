@@ -1,0 +1,1161 @@
+Joueur 1: FHA
+Roi de Coeur
+As de Carreau
+As de Trefle
+Roi de Pique
+Deux de Pique
+Cinq de Carreau
+Roi de Carreau
+Huit de Pique
+Dame de Carreau
+Deux de Carreau
+Valet de Trefle
+Neuf de Coeur
+Huit de Trefle
+Six de Carreau
+Dame de Trefle
+Dame de Pique
+Sept de Pique
+Sept de Carreau
+Dix de Coeur
+Trois de Carreau
+Dix de Pique
+Trois de Coeur
+Trois de Trefle
+Valet de Carreau
+Dix de Trefle
+Huit de Carreau
+
+Joueur 2: PRG1
+Neuf de Carreau
+As de Pique
+As de Coeur
+Quatre de Carreau
+Trois de Pique
+Valet de Pique
+Cinq de Pique
+Sept de Trefle
+Dix de Carreau
+Dame de Coeur
+Roi de Trefle
+Cinq de Coeur
+Valet de Coeur
+Six de Trefle
+Six de Coeur
+Deux de Coeur
+Cinq de Trefle
+Neuf de Trefle
+Quatre de Pique
+Neuf de Pique
+Deux de Trefle
+Six de Pique
+Huit de Coeur
+Quatre de Trefle
+Quatre de Coeur
+Sept de Coeur
+
+---------------------------------
+Tour 1
+Joueur 1: Huit de Carreau
+Joueur 2: Sept de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 27
+Nombre de cartes restantes pour joueur 2 PRG1: 25
+---------------------------------
+Tour 2
+Joueur 1: Dix de Trefle
+Joueur 2: Quatre de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 28
+Nombre de cartes restantes pour joueur 2 PRG1: 24
+---------------------------------
+Tour 3
+Joueur 1: Valet de Carreau
+Joueur 2: Quatre de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 29
+Nombre de cartes restantes pour joueur 2 PRG1: 23
+---------------------------------
+Tour 4
+Joueur 1: Trois de Trefle
+Joueur 2: Huit de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 28
+Nombre de cartes restantes pour joueur 2 PRG1: 24
+---------------------------------
+Tour 5
+Joueur 1: Trois de Coeur
+Joueur 2: Six de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 27
+Nombre de cartes restantes pour joueur 2 PRG1: 25
+---------------------------------
+Tour 6
+Joueur 1: Dix de Pique
+Joueur 2: Deux de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 28
+Nombre de cartes restantes pour joueur 2 PRG1: 24
+---------------------------------
+Tour 7
+Joueur 1: Trois de Carreau
+Joueur 2: Neuf de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 27
+Nombre de cartes restantes pour joueur 2 PRG1: 25
+---------------------------------
+Tour 8
+Joueur 1: Dix de Coeur
+Joueur 2: Quatre de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 28
+Nombre de cartes restantes pour joueur 2 PRG1: 24
+---------------------------------
+Tour 9
+Joueur 1: Sept de Carreau
+Joueur 2: Neuf de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 27
+Nombre de cartes restantes pour joueur 2 PRG1: 25
+---------------------------------
+Tour 10
+Joueur 1: Sept de Pique
+Joueur 2: Cinq de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 28
+Nombre de cartes restantes pour joueur 2 PRG1: 24
+---------------------------------
+Tour 11
+Joueur 1: Dame de Pique
+Joueur 2: Deux de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 29
+Nombre de cartes restantes pour joueur 2 PRG1: 23
+---------------------------------
+Tour 12
+Joueur 1: Dame de Trefle
+Joueur 2: Six de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 30
+Nombre de cartes restantes pour joueur 2 PRG1: 22
+---------------------------------
+Tour 13
+Joueur 1: Six de Carreau
+Joueur 2: Six de Trefle
+Bataille!
+Joueur 1: Neuf de Coeur
+Joueur 2: Cinq de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 33
+Nombre de cartes restantes pour joueur 2 PRG1: 19
+---------------------------------
+Tour 14
+Joueur 1: Valet de Trefle
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 32
+Nombre de cartes restantes pour joueur 2 PRG1: 20
+---------------------------------
+Tour 15
+Joueur 1: Deux de Carreau
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 31
+Nombre de cartes restantes pour joueur 2 PRG1: 21
+---------------------------------
+Tour 16
+Joueur 1: Dame de Carreau
+Joueur 2: Dix de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 32
+Nombre de cartes restantes pour joueur 2 PRG1: 20
+---------------------------------
+Tour 17
+Joueur 1: Huit de Pique
+Joueur 2: Sept de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 33
+Nombre de cartes restantes pour joueur 2 PRG1: 19
+---------------------------------
+Tour 18
+Joueur 1: Roi de Carreau
+Joueur 2: Cinq de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 34
+Nombre de cartes restantes pour joueur 2 PRG1: 18
+---------------------------------
+Tour 19
+Joueur 1: Cinq de Carreau
+Joueur 2: Valet de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 33
+Nombre de cartes restantes pour joueur 2 PRG1: 19
+---------------------------------
+Tour 20
+Joueur 1: Deux de Pique
+Joueur 2: Trois de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 32
+Nombre de cartes restantes pour joueur 2 PRG1: 20
+---------------------------------
+Tour 21
+Joueur 1: Roi de Pique
+Joueur 2: Quatre de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 33
+Nombre de cartes restantes pour joueur 2 PRG1: 19
+---------------------------------
+Tour 22
+Joueur 1: As de Trefle
+Joueur 2: As de Coeur
+Bataille!
+Joueur 1: Roi de Coeur
+Joueur 2: Neuf de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 36
+Nombre de cartes restantes pour joueur 2 PRG1: 16
+---------------------------------
+Tour 23
+Joueur 1: Sept de Coeur
+Joueur 2: Huit de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 35
+Nombre de cartes restantes pour joueur 2 PRG1: 17
+---------------------------------
+Tour 24
+Joueur 1: Huit de Carreau
+Joueur 2: Trois de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 36
+Nombre de cartes restantes pour joueur 2 PRG1: 16
+---------------------------------
+Tour 25
+Joueur 1: Quatre de Coeur
+Joueur 2: Six de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 35
+Nombre de cartes restantes pour joueur 2 PRG1: 17
+---------------------------------
+Tour 26
+Joueur 1: Dix de Trefle
+Joueur 2: Trois de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 36
+Nombre de cartes restantes pour joueur 2 PRG1: 16
+---------------------------------
+Tour 27
+Joueur 1: Quatre de Trefle
+Joueur 2: Neuf de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 35
+Nombre de cartes restantes pour joueur 2 PRG1: 17
+---------------------------------
+Tour 28
+Joueur 1: Valet de Carreau
+Joueur 2: Trois de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 36
+Nombre de cartes restantes pour joueur 2 PRG1: 16
+---------------------------------
+Tour 29
+Joueur 1: Deux de Trefle
+Joueur 2: Neuf de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 35
+Nombre de cartes restantes pour joueur 2 PRG1: 17
+---------------------------------
+Tour 30
+Joueur 1: Dix de Pique
+Joueur 2: Sept de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 36
+Nombre de cartes restantes pour joueur 2 PRG1: 16
+---------------------------------
+Tour 31
+Joueur 1: Quatre de Pique
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 35
+Nombre de cartes restantes pour joueur 2 PRG1: 17
+---------------------------------
+Tour 32
+Joueur 1: Dix de Coeur
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 34
+Nombre de cartes restantes pour joueur 2 PRG1: 18
+---------------------------------
+Tour 33
+Joueur 1: Cinq de Trefle
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 33
+Nombre de cartes restantes pour joueur 2 PRG1: 19
+---------------------------------
+Tour 34
+Joueur 1: Sept de Pique
+Joueur 2: Deux de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 34
+Nombre de cartes restantes pour joueur 2 PRG1: 18
+---------------------------------
+Tour 35
+Joueur 1: Deux de Coeur
+Joueur 2: Valet de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 33
+Nombre de cartes restantes pour joueur 2 PRG1: 19
+---------------------------------
+Tour 36
+Joueur 1: Dame de Pique
+Joueur 2: Cinq de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 34
+Nombre de cartes restantes pour joueur 2 PRG1: 18
+---------------------------------
+Tour 37
+Joueur 1: Six de Coeur
+Joueur 2: Trois de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 35
+Nombre de cartes restantes pour joueur 2 PRG1: 17
+---------------------------------
+Tour 38
+Joueur 1: Dame de Trefle
+Joueur 2: Deux de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 36
+Nombre de cartes restantes pour joueur 2 PRG1: 16
+---------------------------------
+Tour 39
+Joueur 1: Cinq de Coeur
+Joueur 2: Huit de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 35
+Nombre de cartes restantes pour joueur 2 PRG1: 17
+---------------------------------
+Tour 40
+Joueur 1: Neuf de Coeur
+Joueur 2: Sept de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 36
+Nombre de cartes restantes pour joueur 2 PRG1: 16
+---------------------------------
+Tour 41
+Joueur 1: Valet de Coeur
+Joueur 2: Six de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 37
+Nombre de cartes restantes pour joueur 2 PRG1: 15
+---------------------------------
+Tour 42
+Joueur 1: Huit de Trefle
+Joueur 2: Quatre de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 38
+Nombre de cartes restantes pour joueur 2 PRG1: 14
+---------------------------------
+Tour 43
+Joueur 1: Six de Trefle
+Joueur 2: Neuf de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 37
+Nombre de cartes restantes pour joueur 2 PRG1: 15
+---------------------------------
+Tour 44
+Joueur 1: Six de Carreau
+Joueur 2: Quatre de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 38
+Nombre de cartes restantes pour joueur 2 PRG1: 14
+---------------------------------
+Tour 45
+Joueur 1: Dix de Carreau
+Joueur 2: Neuf de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 39
+Nombre de cartes restantes pour joueur 2 PRG1: 13
+---------------------------------
+Tour 46
+Joueur 1: Dame de Carreau
+Joueur 2: Deux de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 40
+Nombre de cartes restantes pour joueur 2 PRG1: 12
+---------------------------------
+Tour 47
+Joueur 1: Sept de Trefle
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 39
+Nombre de cartes restantes pour joueur 2 PRG1: 13
+---------------------------------
+Tour 48
+Joueur 1: Huit de Pique
+Joueur 2: Quatre de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 40
+Nombre de cartes restantes pour joueur 2 PRG1: 12
+---------------------------------
+Tour 49
+Joueur 1: Cinq de Pique
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 39
+Nombre de cartes restantes pour joueur 2 PRG1: 13
+---------------------------------
+Tour 50
+Joueur 1: Roi de Carreau
+Joueur 2: Dix de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 40
+Nombre de cartes restantes pour joueur 2 PRG1: 12
+---------------------------------
+Tour 51
+Joueur 1: Quatre de Carreau
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 39
+Nombre de cartes restantes pour joueur 2 PRG1: 13
+---------------------------------
+Tour 52
+Joueur 1: Roi de Pique
+Joueur 2: Cinq de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 40
+Nombre de cartes restantes pour joueur 2 PRG1: 12
+---------------------------------
+Tour 53
+Joueur 1: Neuf de Carreau
+Joueur 2: Valet de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 39
+Nombre de cartes restantes pour joueur 2 PRG1: 13
+---------------------------------
+Tour 54
+Joueur 1: Roi de Coeur
+Joueur 2: Deux de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 40
+Nombre de cartes restantes pour joueur 2 PRG1: 12
+---------------------------------
+Tour 55
+Joueur 1: As de Pique
+Joueur 2: Huit de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 41
+Nombre de cartes restantes pour joueur 2 PRG1: 11
+---------------------------------
+Tour 56
+Joueur 1: As de Carreau
+Joueur 2: Cinq de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 42
+Nombre de cartes restantes pour joueur 2 PRG1: 10
+---------------------------------
+Tour 57
+Joueur 1: As de Coeur
+Joueur 2: Neuf de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 58
+Joueur 1: As de Trefle
+Joueur 2: Six de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 59
+Joueur 1: Trois de Trefle
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 60
+Joueur 1: Huit de Carreau
+Joueur 2: Sept de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 61
+Joueur 1: Trois de Coeur
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 62
+Joueur 1: Dix de Trefle
+Joueur 2: Cinq de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 63
+Joueur 1: Trois de Carreau
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 64
+Joueur 1: Valet de Carreau
+Joueur 2: Quatre de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 65
+Joueur 1: Sept de Carreau
+Joueur 2: Valet de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 66
+Joueur 1: Dix de Pique
+Joueur 2: Neuf de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 67
+Joueur 1: Deux de Carreau
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 68
+Joueur 1: Sept de Pique
+Joueur 2: Trois de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 69
+Joueur 1: Cinq de Carreau
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 70
+Joueur 1: Dame de Pique
+Joueur 2: Trois de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 71
+Joueur 1: Trois de Pique
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 72
+Joueur 1: Six de Coeur
+Joueur 2: Trois de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 73
+Joueur 1: Deux de Pique
+Joueur 2: Valet de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 74
+Joueur 1: Dame de Trefle
+Joueur 2: Sept de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 75
+Joueur 1: Sept de Coeur
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 76
+Joueur 1: Neuf de Coeur
+Joueur 2: Deux de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 77
+Joueur 1: Six de Pique
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 78
+Joueur 1: Valet de Coeur
+Joueur 2: Cinq de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 79
+Joueur 1: Quatre de Coeur
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 80
+Joueur 1: Huit de Trefle
+Joueur 2: Trois de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 81
+Joueur 1: Quatre de Trefle
+Joueur 2: Valet de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 82
+Joueur 1: Six de Carreau
+Joueur 2: Deux de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 83
+Joueur 1: Neuf de Trefle
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 84
+Joueur 1: Dix de Carreau
+Joueur 2: Sept de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 85
+Joueur 1: Deux de Trefle
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 86
+Joueur 1: Dame de Carreau
+Joueur 2: Six de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 87
+Joueur 1: Quatre de Pique
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 88
+Joueur 1: Huit de Pique
+Joueur 2: Quatre de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 89
+Joueur 1: Dix de Coeur
+Joueur 2: Valet de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 90
+Joueur 1: Roi de Carreau
+Joueur 2: Quatre de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 91
+Joueur 1: Cinq de Trefle
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 92
+Joueur 1: Roi de Pique
+Joueur 2: Neuf de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 93
+Joueur 1: Deux de Coeur
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 94
+Joueur 1: Roi de Coeur
+Joueur 2: Deux de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 95
+Joueur 1: Huit de Coeur
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 96
+Joueur 1: As de Pique
+Joueur 2: Quatre de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 97
+Joueur 1: Cinq de Coeur
+Joueur 2: Valet de Pique
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 98
+Joueur 1: As de Carreau
+Joueur 2: Dix de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 99
+Joueur 1: Neuf de Pique
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 100
+Joueur 1: As de Coeur
+Joueur 2: Cinq de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 101
+Joueur 1: Six de Trefle
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 102
+Joueur 1: As de Trefle
+Joueur 2: Deux de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 44
+Nombre de cartes restantes pour joueur 2 PRG1: 8
+---------------------------------
+Tour 103
+Joueur 1: Sept de Trefle
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 43
+Nombre de cartes restantes pour joueur 2 PRG1: 9
+---------------------------------
+Tour 104
+Joueur 1: Huit de Carreau
+Joueur 2: Huit de Coeur
+Bataille!
+Joueur 1: Dix de Trefle
+Joueur 2: Cinq de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 105
+Joueur 1: Quatre de Carreau
+Joueur 2: Roi de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 106
+Joueur 1: Valet de Carreau
+Joueur 2: Neuf de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 107
+Joueur 1: Neuf de Carreau
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 108
+Joueur 1: Dix de Pique
+Joueur 2: Six de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 109
+Joueur 1: Trois de Trefle
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 110
+Joueur 1: Sept de Pique
+Joueur 2: Sept de Trefle
+Bataille!
+Joueur 1: Dame de Pique
+Joueur 2: Quatre de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 48
+Nombre de cartes restantes pour joueur 2 PRG1: 4
+---------------------------------
+Tour 111
+Joueur 1: Trois de Carreau
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 47
+Nombre de cartes restantes pour joueur 2 PRG1: 5
+---------------------------------
+Tour 112
+Joueur 1: Six de Coeur
+Joueur 2: Neuf de Carreau
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 113
+Joueur 1: Sept de Carreau
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 114
+Joueur 1: Dame de Trefle
+Joueur 2: Trois de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 115
+Joueur 1: Deux de Carreau
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 116
+Joueur 1: Neuf de Coeur
+Joueur 2: Trois de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 117
+Joueur 1: Cinq de Carreau
+Joueur 2: Neuf de Carreau
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 118
+Joueur 1: Valet de Coeur
+Joueur 2: Six de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 119
+Joueur 1: Trois de Pique
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 120
+Joueur 1: Huit de Trefle
+Joueur 2: Sept de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 121
+Joueur 1: Deux de Pique
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 122
+Joueur 1: Six de Carreau
+Joueur 2: Deux de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 123
+Joueur 1: Sept de Coeur
+Joueur 2: Neuf de Carreau
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 124
+Joueur 1: Dix de Carreau
+Joueur 2: Cinq de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 125
+Joueur 1: Six de Pique
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 126
+Joueur 1: Dame de Carreau
+Joueur 2: Trois de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 127
+Joueur 1: Quatre de Coeur
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 128
+Joueur 1: Huit de Pique
+Joueur 2: Deux de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 129
+Joueur 1: Quatre de Trefle
+Joueur 2: Neuf de Carreau
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 130
+Joueur 1: Roi de Carreau
+Joueur 2: Sept de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 131
+Joueur 1: Neuf de Trefle
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 132
+Joueur 1: Roi de Pique
+Joueur 2: Six de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 133
+Joueur 1: Deux de Trefle
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 134
+Joueur 1: Roi de Coeur
+Joueur 2: Quatre de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 135
+Joueur 1: Quatre de Pique
+Joueur 2: Neuf de Carreau
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 136
+Joueur 1: As de Pique
+Joueur 2: Quatre de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 137
+Joueur 1: Dix de Coeur
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 138
+Joueur 1: As de Carreau
+Joueur 2: Neuf de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 139
+Joueur 1: Cinq de Trefle
+Joueur 2: Valet de Trefle
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 140
+Joueur 1: As de Coeur
+Joueur 2: Deux de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 141
+Joueur 1: Deux de Coeur
+Joueur 2: Neuf de Carreau
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 142
+Joueur 1: As de Trefle
+Joueur 2: Quatre de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 46
+Nombre de cartes restantes pour joueur 2 PRG1: 6
+---------------------------------
+Tour 143
+Joueur 1: Cinq de Coeur
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 45
+Nombre de cartes restantes pour joueur 2 PRG1: 7
+---------------------------------
+Tour 144
+Joueur 1: Dix de Trefle
+Joueur 2: Dix de Coeur
+Bataille!
+Joueur 1: Cinq de Pique
+Joueur 2: Cinq de Trefle
+Bataille!
+Joueur 1: Huit de Carreau
+Joueur 2: Deux de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 50
+Nombre de cartes restantes pour joueur 2 PRG1: 2
+---------------------------------
+Tour 145
+Joueur 1: Neuf de Pique
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 49
+Nombre de cartes restantes pour joueur 2 PRG1: 3
+---------------------------------
+Tour 146
+Joueur 1: Valet de Carreau
+Joueur 2: Cinq de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 50
+Nombre de cartes restantes pour joueur 2 PRG1: 2
+---------------------------------
+Tour 147
+Joueur 1: Six de Trefle
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 49
+Nombre de cartes restantes pour joueur 2 PRG1: 3
+---------------------------------
+Tour 148
+Joueur 1: Dix de Pique
+Joueur 2: Neuf de Pique
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 50
+Nombre de cartes restantes pour joueur 2 PRG1: 2
+---------------------------------
+Tour 149
+Joueur 1: Quatre de Carreau
+Joueur 2: Dame de Coeur
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 49
+Nombre de cartes restantes pour joueur 2 PRG1: 3
+---------------------------------
+Tour 150
+Joueur 1: Dame de Pique
+Joueur 2: Six de Trefle
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 50
+Nombre de cartes restantes pour joueur 2 PRG1: 2
+---------------------------------
+Tour 151
+Joueur 1: Roi de Trefle
+Joueur 2: Dame de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 51
+Nombre de cartes restantes pour joueur 2 PRG1: 1
+---------------------------------
+Tour 152
+Joueur 1: Trois de Coeur
+Joueur 2: Quatre de Carreau
+Joueur 2 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 50
+Nombre de cartes restantes pour joueur 2 PRG1: 2
+---------------------------------
+Tour 153
+Joueur 1: Sept de Trefle
+Joueur 2: Quatre de Carreau
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 51
+Nombre de cartes restantes pour joueur 2 PRG1: 1
+---------------------------------
+Tour 154
+Joueur 1: Sept de Pique
+Joueur 2: Trois de Coeur
+Joueur 1 gagne le tour
+Nombre de cartes restantes pour joueur 1 FHA: 52
+Nombre de cartes restantes pour joueur 2 PRG1: 0
+---------------------------------
+Fin de la partie
+Nombre de tours: 154
+Nombre de cartes restantes pour joueur 1 FHA: 52
+Nombre de cartes restantes pour joueur 2 PRG1: 0
+---------------------------------
+Resultat de la partie: Joueur 1 gagne la partie
+
+Process finished with exit code 0

@@ -1,0 +1,5 @@
+# Ajoutez ici les fichiers et dossiers à être ignorés par git.
+*.o
+*.exe
+*.out
+build/

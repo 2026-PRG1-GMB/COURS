@@ -1,0 +1,16 @@
+# .DS_Store (GMB)
+.DS_Store
+
+# movie files (GMB)
+#*.mp4
+.cmproj
+
+# CLion project files (GMB)
+.idea
+cmake-build-*
+build
+
+# Executables
+*.exe
+*.out
+*.app

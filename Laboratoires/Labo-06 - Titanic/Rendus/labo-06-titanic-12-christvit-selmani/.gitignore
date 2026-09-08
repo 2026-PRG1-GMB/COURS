@@ -1,0 +1,5 @@
+# Ajoutez ici les fichiers et dossiers à être ignorés par git.
+.idea
+cmake-build-debug
+morse_input.txt
+morse_output.txt

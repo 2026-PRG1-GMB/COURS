@@ -1,0 +1,20 @@
+
+-mettre le morse code dans le fichier txt
+-saisi d'utilisateur
+-do while (pour 1 - 2)
+-
+1 : encoder morse au morse
+
+2 : de morse au alphabet
+
+H library :
+
+-write Miguel
+-read Nisa
+
+
+encoder (alphabet -> morse)
+-alphabet Miguel
+-number Nisa
+
+decoder (morse -> alphabet)
