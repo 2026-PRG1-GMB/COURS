@@ -1,6 +1,0 @@
-.idea
-.git
-cmake-build-debug
-*.exe
-*.txt
-!CMakeLists.txt
