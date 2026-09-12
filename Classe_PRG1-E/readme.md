@@ -31,7 +31,7 @@
         - https://github.com/2026-PRG1-GMB/COURS
         - https://github.com/HEIGVD-PRG1/PRG1_Recueil_Exercices
     - **MS-Teams**
-        - inscription => 53r51w8
+        - inscription => 4vw11kz
         - présentation / objectifs
   - **Socrative**
     - https://api.socrative.com/rc/HHp46R
