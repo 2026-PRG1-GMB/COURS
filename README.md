@@ -2,19 +2,8 @@
 
 ### Classes
 - [PRG1-C](Classe_PRG1-C)
-	- [Journal](Classe_PRG1-C/readme.md)
-	- [Demos](Classe_PRG1-C/Demos)
-	- [MS-Teams](https://teams.microsoft.com/l/team/19%3AVg4ZZljLpAHIENKxjAoGGsJ6M5BcYwmAh-6fQq2XZnY1%40thread.tacv2/conversations?groupId=3e2d9696-6bb1-46b5-a09d-9d02657344b9&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
-
 - [PRG1-D](Classe_PRG1-D)
-	- [Journal](Classe_PRG1-D/readme.md)
-	- [Demos](Classe_PRG1-D/Demos)
-	- [MS-Teams](https://teams.microsoft.com/l/team/19%3AVg4ZZljLpAHIENKxjAoGGsJ6M5BcYwmAh-6fQq2XZnY1%40thread.tacv2/conversations?groupId=3e2d9696-6bb1-46b5-a09d-9d02657344b9&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
-
 - [PRG1-E](Classe_PRG1-E)
-	- [Journal](Classe_PRG1-E/readme.md)
-	- [Demos](Classe_PRG1-E/Demos)
-	- [MS-Teams](https://teams.microsoft.com/l/team/19%3AVg4ZZljLpAHIENKxjAoGGsJ6M5BcYwmAh-6fQq2XZnY1%40thread.tacv2/conversations?groupId=3e2d9696-6bb1-46b5-a09d-9d02657344b9&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
 
 ### Matériel
 - [Supports de cours](Slides)
