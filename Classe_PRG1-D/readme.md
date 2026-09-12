@@ -33,8 +33,6 @@
     - **MS-Teams**
         - inscription => d3x6wgn
         - présentation / objectifs
-  - **Socrative**
-    - https://api.socrative.com/rc/HHp46R
 
     - chap 0 : terminé
 
