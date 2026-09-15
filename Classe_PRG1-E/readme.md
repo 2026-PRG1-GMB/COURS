@@ -52,7 +52,7 @@
 
 ### Mardi
 - **Cours et labo**
-	- chap 2 => slide ...
+	- chap 2 => slide 20
 	- exercices chap 1 : fait et corrigés
 	- exercices chap 2 : 
 
