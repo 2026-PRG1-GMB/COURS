@@ -35,6 +35,7 @@
 		- présentation / objectifs
 
 	- chap 0 : terminé
+	- chap 1 : slide 16
 
 - **Labo**
 
