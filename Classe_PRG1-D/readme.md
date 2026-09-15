@@ -21,7 +21,7 @@
 > ## <a name="semaine_01"></a>SEMAINE 01 - 14.09.2026 - 20.09.2026 [⬆︎](readme.md#start)
 
 ### Mardi
-- **Cours**
+- **Cours et labo**
 	- Bienvenue
 	- Présentation générale
 	- Fiche unité PRG1
@@ -35,9 +35,8 @@
 		- présentation / objectifs
 
 	- chap 0 : terminé
-	- chap 1 : slide 16
-
-- **Labo**
+	- chap 1 : slide fin
+	- exercices chap 1 : fait et corrigés
 
 ### Vendredi
 - **Cours**
