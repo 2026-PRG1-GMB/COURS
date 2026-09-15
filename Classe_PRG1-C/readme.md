@@ -22,19 +22,19 @@
 
 ### Lundi
 - **Cours**
-    - Bienvenue
-    - Présentation générale
-    - Fiche unité PRG1
-    - Règles de cours et laboratoires
-    - Professeur et assistant
-    - **GitHub**
-        - https://github.com/2026-PRG1-GMB/COURS
-        - https://github.com/HEIGVD-PRG1/PRG1_Recueil_Exercices
-    - **MS-Teams**
-        - inscription => n3waso9
-        - présentation / objectifs
+	- Bienvenue
+	- Présentation générale
+	- Fiche unité PRG1
+	- Règles de cours et laboratoires
+	- Professeur et assistant
+	- **GitHub**
+		- https://github.com/2026-PRG1-GMB/COURS
+		- https://github.com/HEIGVD-PRG1/PRG1_Recueil_Exercices
+	- **MS-Teams**
+		- inscription => n3waso9
+		- présentation / objectifs
 
-    - chap 0 : terminé
+	- chap 0 : terminé
 
 ### Jeudi
 - **Labo**
@@ -118,7 +118,7 @@
 - **Cours**
 
 - **Labo**
-    
+	
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 02.11.2026 - 08.11.2026 [⬆︎](readme.md#start)
 
