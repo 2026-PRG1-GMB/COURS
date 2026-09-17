@@ -38,9 +38,8 @@
 
 ### Jeudi
 - **Labo => cours**
-  - chap 1 => slide ...
-  - exercices => ...
-
+  - chap 1 => terminé
+  
 ### Vendredi
 - **Cours**
 
