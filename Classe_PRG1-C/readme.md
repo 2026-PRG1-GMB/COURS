@@ -37,7 +37,9 @@
 	- chap 0 : terminé
 
 ### Jeudi
-- **Labo**
+- **Labo => cours**
+  - chap 1 => slide ...
+  - exercices => ...
 
 ### Vendredi
 - **Cours**
