@@ -1,6 +1,6 @@
 # Planification de cours PRG1
 
-| Semaine  |     Date      | Contnu              |
+| Semaine  |     Date      | Contenu             |
 |:--------:|:-------------:|:--------------------|
 | 38 / 01  | 14.09 - 20.09 | Chap 1 et 2         |
 | 39 / 02  | 21.09 - 27.09 | Chap 2              |
