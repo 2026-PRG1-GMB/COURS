@@ -62,8 +62,8 @@
 ### Lundi
 - **Cours**
 	- chap 2 => slide no 
-	- [Planning Général](Planning_General.md)
-	- [Profs et Assistants](Profs_Assistants.md)
+	- [Planning Général](../Planning_General.md)
+	- [Profs et Assistants](../Profs_Assistants.md)
 
 - **Labo**
 
