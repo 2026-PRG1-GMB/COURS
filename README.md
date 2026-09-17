@@ -4,6 +4,8 @@
 - [PRG1-C](Classe_PRG1-C)
 - [PRG1-D](Classe_PRG1-D)
 - [PRG1-E](Classe_PRG1-E)
+- [Planning Général 2026 - 2027](Planning_General.md)
+
 
 ### Matériel
 - [Supports de cours](Slides)
@@ -11,7 +13,7 @@
 - [Données laboratoire](Laboratoires)
 - [Démos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
 - [Compléments](Complements) 
-- [Professeurs et assistants](Prof_Assistants.md)
+- [Professeurs et assistants](Profs_Assistants.md)
 - [Règles de cours PRG1](Complements/regles_PRG1.md)
 
 <details>
