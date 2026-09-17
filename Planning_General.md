@@ -8,7 +8,7 @@
 | 41 / 04  | 05.10.26 - 11.10.26 | 3) Conditions et Boucles                                 |
 | 42 / 05  | 12.10.26 - 18.10.26 | 4) Fonctions, Récursivité et Surcharge                   |
 | 43 / --- | 19.10.26 - 25.10.26 | <span style="color: blue;">Semaine 43</span>             |
-| 44 / 06  | 26.10.26 - 01.11.26 | 4) Fonctions, Récursivité et Surcharge                   |
+| 44 / 06  | 26.10.26 - 01.11.26 | 4) Fonctions, récursivité et surcharge                   |
 | 45 / 07  | 02.11.26 - 08.11.26 | 5) Array, vector et string                               |
 | 46 / 08  | 09.11.26 - 15.11.26 | **<span style="color: red;">Evaluation no 1</span>**     |
 | 47 / 09  | 16.11.26 - 22.11.26 | 5) Array, vector et string                               |
