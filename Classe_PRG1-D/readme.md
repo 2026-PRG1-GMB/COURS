@@ -40,6 +40,8 @@
 
 ### Vendredi
 - **Cours**
+	- [Planning Général](Planning_General.md)
+	- [Profs et Assistants](Profs_Assistants.md)
 
 - **Labo**
 
