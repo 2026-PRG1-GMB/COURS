@@ -25,8 +25,17 @@ int main () {
    cout << ++i << " => " <<   i << endl;
    cout << i++ << " => " <<   i << endl;
 
-   for (int a=0; i<10; i++)
+   for (int a=0; a<10; a++)
       cout << a << endl;
+
+   // !=
+   bool b = !4;   // => false
+   bool c = !0;   // => true
+
+   cout << (!4) << endl;
+
+   char car     = 'a';
+   cout << car << (int)car << endl;
 
    return EXIT_SUCCESS;
 }
