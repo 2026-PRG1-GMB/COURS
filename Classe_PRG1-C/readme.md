@@ -44,6 +44,7 @@
 - **Cours**
 	- [Planning Général](../Planning_General.md)
 	- [Profs et Assistants](../Profs_Assistants.md)
+    - chap 2 => slide 30
 
 - **Labo**
 
