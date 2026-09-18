@@ -66,6 +66,7 @@
 	- [Profs et Assistants](../Profs_Assistants.md)
 
 - **Labo**
+	- [Labo-01 Suite de Wallis](../Laboratoires/Labo-01)
 
 ### Mardi
 - **Cours**

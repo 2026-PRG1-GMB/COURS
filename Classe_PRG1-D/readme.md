@@ -44,6 +44,7 @@
 	- [Profs et Assistants](../Profs_Assistants.md)
 
 - **Labo**
+	- [Labo-01 Suite de Wallis](../Laboratoires/Labo-01)
 
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 21.09.2026 - 27.09.2026 [⬆︎](readme.md#start)
