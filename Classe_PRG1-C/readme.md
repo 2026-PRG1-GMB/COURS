@@ -47,7 +47,7 @@
     - chap 2 => slide 30
 
 - **Labo**
-
+	- [Labo-01 Suite de Walis](../Laboratoires/Labo-01)
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 21.09.2026 - 27.09.2026 [⬆︎](readme.md#start)
 
