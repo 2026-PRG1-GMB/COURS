@@ -27,18 +27,18 @@
 	- Fiche unité PRG1
 	- Règles de cours et laboratoires
 	- Professeur et assistant
-	- **GitHub**
-		- https://github.com/2026-PRG1-GMB/COURS
-		- https://github.com/HEIGVD-PRG1/PRG1_Recueil_Exercices
-	- **MS-Teams**
-		- inscription => n3waso9
-		- présentation / objectifs
+    - **GitHub**
+        - https://github.com/2026-PRG1-GMB/COURS
+        - https://github.com/HEIGVD-PRG1/PRG1_Recueil_Exercices
+      - **MS-Teams**
+          - inscription => n3waso9
+          - présentation / objectifs
 
-	- chap 0 : terminé
+      - chap 0 : terminé
 
 ### Jeudi
 - **Labo => cours**
-  - chap 1 => terminé
+    - chap 1 => terminé
   
 ### Vendredi
 - **Cours**
@@ -53,15 +53,21 @@
 > ## <a name="semaine_02"></a>SEMAINE 02 - 21.09.2026 - 27.09.2026 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
+- **CONGE**
 
 ### Jeudi
 - **Labo**
+    - Installation CLion
+    - Demo Git
+    - Labo 02 - Calcul du temps de trajet
 
 ### Vendredi
 - **Cours**
+    - chap 2 => slide ..
+    - exercices chap 2 :
 
 - **Labo**
+    - Labo 02 - Calcul du temps de trajet
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 28.09.2026 - 04.10.2026 [⬆︎](readme.md#start)

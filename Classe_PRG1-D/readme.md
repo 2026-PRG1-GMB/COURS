@@ -52,13 +52,21 @@
 
 ### Mardi
 - **Cours**
+	- chap 2 => slide ..
+	- exercices chap 2 :
 
 - **Labo**
+	- Installation CLion
+	- Demo Git
+	- Labo 02 - Calcul du temps de trajet
 
 ### Vendredi
 - **Cours**
+	- chap 2 => slide ..
+	- exercices chap 2 :
 
 - **Labo**
+	- Labo 02 - Calcul du temps de trajet
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 28.09.2026 - 04.10.2026 [⬆︎](readme.md#start)

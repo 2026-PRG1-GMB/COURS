@@ -60,18 +60,21 @@
 > ## <a name="semaine_02"></a>SEMAINE 02 - 21.09.2026 - 27.09.2026 [⬆︎](readme.md#start)
 
 ### Lundi
+- **CONGE**
+
+### Mardi
 - **Cours**
-	- chap 2 => slide no 
 	- [Planning Général](../Planning_General.md)
 	- [Profs et Assistants](../Profs_Assistants.md)
+	- chap 2 => slide ..
+	- exercices chap 2 :
 
 - **Labo**
 	- [Labo-01 Suite de Wallis](../Laboratoires/Labo-01)
 
-### Mardi
-- **Cours**
-
-- **Labo**
+    - Installation CLion
+	- Demo Git
+	- Labo 02 - Calcul du temps de trajet
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 28.09.2026 - 04.10.2026 [⬆︎](readme.md#start)
