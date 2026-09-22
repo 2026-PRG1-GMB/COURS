@@ -52,7 +52,7 @@
 
 ### Mardi
 - **Cours et labo**
-	- chap 2 => slide 20
+	- chap 2 => slide 40
 	- exercices chap 1 : fait et corrigés
 	- exercices chap 2 : 
 
@@ -66,8 +66,8 @@
 - **Cours**
 	- [Planning Général](../Planning_General.md)
 	- [Profs et Assistants](../Profs_Assistants.md)
-	- chap 2 => slide ..
-	- exercices chap 2 :
+	- chap 2 => slide 68 (conversion)
+	- exercices chap 2 : pas eu le temps
 
 - **Labo**
 	- [Labo-01 Suite de Wallis](../Laboratoires/Labo-01)
