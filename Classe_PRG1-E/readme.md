@@ -71,6 +71,7 @@
 
 - **Labo**
 	- [Labo-01 Suite de Wallis](../Laboratoires/Labo-01)
+	- [Labo-02 Temps Trajet](../Laboratoires/Labo-02)
 
     - Installation CLion
 	- Demo Git
