@@ -52,8 +52,7 @@
 
 ### Mardi
 - **Cours**
-	- chap 2 => slide ..
-	- exercices chap 2 :
+	- chap 2 => slide 69
 
 - **Labo**
 	- Installation CLion

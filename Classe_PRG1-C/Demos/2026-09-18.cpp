@@ -34,5 +34,6 @@ int main () {
    bool maboule = true;
    cout << maboule << !maboule << endl;
    cout << (!4) << endl;
+
    return EXIT_SUCCESS;
 }
