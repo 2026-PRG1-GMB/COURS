@@ -40,6 +40,5 @@ Afin de faciliter la validation du labo, votre programme affichera uniquement le
 4. **En bonus :** modifier votre programme pour prendre en entrée la distance à parcourir sur la route (`L1`) afin de tester et deviner la distance qui permet de récupérer l’objet le plus rapidement possible !
 
 ## Remise du travail 
-- Veuillez soumettre (sur Cyberlearn ou Teams selon le cas) le hash de votre commit dans GitHub ainsi que le lien vers le repo.
-- Le code C++ et l’algorithme en pseudo code doivent être dans le repo Git.
-- Travail individuel.
+- Ce travail n'est pas à rendre
+- .. mais sera à présenter par certains d'entre vous à la classe.
