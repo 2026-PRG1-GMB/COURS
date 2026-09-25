@@ -64,8 +64,8 @@
 
 ### Vendredi
 - **Cours**
-    - chap 2 => slide ..
-    - exercices chap 2 :
+    - chap 2 => slide 67
+    - exercices chap 2 : à faire
 
 - **Labo**
     - Labo 02 - Calcul du temps de trajet
