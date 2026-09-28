@@ -146,7 +146,17 @@
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 09.11.2026 - 15.11.2026 [⬆︎](readme.md#start)
 
-# EVALUATION
+### Mardi
+- **EVALUATION no 1**
+
+- **Cours**
+
+- **Labo**
+
+### Vendredi
+- **Cours**
+
+- **Labo**
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 16.11.2026 - 22.11.2026 [⬆︎](readme.md#start)
