@@ -73,9 +73,9 @@
 	- [Labo-01 Suite de Wallis](../Laboratoires/Labo-01)
 	- [Labo-02 Temps Trajet](../Laboratoires/Labo-02)
 
-    - Installation CLion
-	- Demo Git
-	- Labo 02 - Calcul du temps de trajet
+  - Installation CLion
+  - Demo Git
+  - Labo 02 - Calcul du temps de trajet
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 28.09.2026 - 04.10.2026 [⬆︎](readme.md#start)
@@ -83,12 +83,12 @@
 #### Lundi
 - **Cours**
 	- chap 2 => terminé
-	- chap 3 => slide ..
+	- chap 3 => slide 12
 
 - **Labo**
 	- Labo-02 : revue
-	- exercices chap 2 : à passer en revue
-	- exercices chap 3 :
+	- exercices chap 2 : revu
+	- exercices chap 3 : 1, 2, 3, 7, 8, 10, 11
 
 ### Mardi
 - **Cours**
