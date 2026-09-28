@@ -75,14 +75,22 @@
 
 ### Lundi
 - **Cours**
+  - chap 2 => à terminer
+  - chap 3 => slide ..
 
 ### Jeudi
 - **Labo**
+   - Labo-02 : revue
+   - exercices chap 2 : à passer en revue
+   - exercices chap 3 :
 
 ### Vendredi
 - **Cours**
+   - chap 3 => slide ..
 
 - **Labo**
+   - exercices chap 2 : à passer en revue
+   - exercices chap 3 :
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 05.10.2026 - 11.10.2026 [⬆︎](readme.md#start)

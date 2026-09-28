@@ -61,8 +61,8 @@
 
 ### Vendredi
 - **Cours**
-	- chap 2 => slide ..
-	- exercices chap 2 :
+	- chap 2 => terminé
+	- exercices chap 2 : à faire au complet pour la semaine prochaine
 
 - **Labo**
 	- Labo 02 - Calcul du temps de trajet
@@ -72,14 +72,19 @@
 
 ### Mardi
 - **Cours**
+	- chap 3 => slide ..
 
 - **Labo**
+	- Labo-02 : revue
+   - exercices chap 2 : à passer en revue
+	- exercices chap 3 : 
 
 ### Vendredi
 - **Cours**
+	- chap 3 => slide ..
 
 - **Labo**
-
+	- exercices chap 3 :
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 05.10.2026 - 11.10.2026 [⬆︎](readme.md#start)
