@@ -76,7 +76,8 @@
 ### Lundi
 - **Cours**
   - chap 2 => à terminer
-  - chap 3 => slide ..
+  - chap 3 => slide 12
+  - exercice : max (a, b, c) avec un ternaire
 
 ### Jeudi
 - **Labo**

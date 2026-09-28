@@ -6,46 +6,78 @@ using namespace std;
 
 int main () {
 
-   int i = 12;
-   bool a = false,
-        b = true;
+   // int + double
+   cout << 2 + 2.5 << endl;
 
-   cout << i << endl;
-   cout << (a and i++) << endl;
-   //       a en bool  and i en bool
-   cout << i << endl;
+   // double + double
+   cout << double(2) + 2.5 << endl;
 
-   // pointeur
-   int* ptr = &i;    // initialisation
-   ptr = &i;         // affectation
+   // double + double
+   cout << 2.0 + 2.5 << endl;
 
-   // reference
-   int& ref = i;     // initialisation obligatoirement
+   /*
+   bool  => int (promotion)
+   char  => int (promotion)
+   short => int (promotion)
+   int      type minimum
+   long  => conversion
+   long
 
-   cout << "i   = " <<   i << endl;
-   cout << "ref = " << ref << endl;
+   float
+   double   type minimum
+   long double
 
-   i++;
-   ref++;
+    */
 
-   cout << "i   = " <<   i << endl;
-   cout << "ref = " << ref << endl;
+   float reel = 1234567890;
+   cout << setprecision(10) << fixed;
+   cout << reel << endl;
 
-   double reel = 3.14;
-   const int cste = 21;
-   const int& ref_ro = i;
-   //int& ref_cste = reel; // droit RW sur un RO => pas possible
+   int entier = 10e14;
+   cout << entier << endl;
 
-   int signe = -1;
-   cout << signe << "  " << (unsigned)signe << endl;
+   float pi = 3.141592653589793;
+   cout << pi << endl;
 
-   long grand = 1;      // long int <= int
-   int nonsigne = 1U;
+   // structure de controle
+   /*
+   {
+      int entier;
+      cout << "votre valeur : ";
+      cin  >> entier;
+      cout << entier << endl;
+   }
+*/
+   bool beau = true;
+   float temp = 24.2;
 
-   cout << fixed << setprecision(20);
-   cout << 1.0/2.0 << endl;
-   cout << 1.0/3.0 << endl;
-   cout << 1.0f/3.0f << endl;
+   if (beau) {
+      if (temp > 20.0) {
+         cout << "piscine" << endl;
+      }
+      else {
+         cout << "parc" << endl;
+      }
+   }
+   else
+      cout << "je reste à la maison";
+
+   if (beau)
+      cout << "beau" << endl;
+   else
+      cout << 12;
+
+//   cout << (beau ? "beau" : cin << 12);
+
+   int a = 17;
+   int b = 34;
+   int c = 55;
+   // max entre a et b
+   cout << "max : " << (a > b ? a : b) << endl;
+
+   // max entre a, b et c
+   cout << "max : " << (a > b ? a > c ? a : c :  b > c ? b : c) << endl;
+
 
    return EXIT_SUCCESS;
 }
