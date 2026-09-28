@@ -82,7 +82,7 @@
 
 #### Lundi
 - **Cours**
-	- chap 2 => à terminer
+	- chap 2 => terminé
 	- chap 3 => slide ..
 
 - **Labo**
