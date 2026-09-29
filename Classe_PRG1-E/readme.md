@@ -92,7 +92,7 @@
 
 ### Mardi
 - **Cours**
-	- chap 3 => slide ..
+	- chap 3 => slide 34
 
 - **Labo**
 	- exercices chap 3 : 4, 5, 6
