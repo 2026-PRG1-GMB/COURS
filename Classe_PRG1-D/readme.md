@@ -72,7 +72,7 @@
 
 ### Mardi
 - **Cours**
-	- chap 3 => slide ..
+	- chap 3 => slide 15
 
 - **Labo**
 	- Labo-02 : revue
