@@ -1,12 +1,12 @@
 #include <iostream>
 #include <cstdlib>
 #include <iomanip>
-#include <string>
+#include <limits>
 
 using namespace std;
 
 int main () {
-
+/*
    float temp = 24.5;
    bool beau = true;
 
@@ -20,7 +20,6 @@ int main () {
       cout << "ja vais au cinema" << endl;
    }
 
-   /*
    int valeur;
    cout << "valeur nulle : ";
    cin  >> valeur;
@@ -36,7 +35,6 @@ int main () {
    cin >> reel;
 
    cout << "teminé" << reel << endl;
-*/
 
    int nbre = 2;
    cout << nbre << " personne";
@@ -51,8 +49,8 @@ int main () {
    int c = 4;
    cout << "max(a, b)    = " << ( a > b ? a : b ) << endl;
    cout << "max(a, b, c) = " << ( a > b ?
-                   /* a > b  */  (a > c ? a : c) :
-                   /* a <= b */  (b > c ? b : c) ) << endl;
+                                (a > c ? a : c) :
+                                (b > c ? b : c) ) << endl;
 
    int max = a > b ? (a > c ? a : c) : (b > c ? b : c);
 
@@ -92,6 +90,18 @@ int main () {
                 break;
       default : cout << "??"        << endl;
    }
+*/
+   cout << setprecision(20) << fixed;
+   cout << boolalpha << (1e12f - 1e-12f == 1e12f) << endl;
+   cout << (float)1234567890 << endl;
+
+   signed   a = -1;
+   unsigned b =  1;
+   cout << static_cast<unsigned>(a) << endl;
+   cout << static_cast<signed>(b)   << endl;
+   cout << "a + b              : " << (a + b) << endl;
+   cout << "numeric_limits + b : " <<  (numeric_limits<unsigned>::max() + b) << endl;
+   cout << "a + static_cast    : " <<  (a + static_cast<signed>(b)) << endl;
 
    return EXIT_SUCCESS;
 }
