@@ -95,8 +95,12 @@
 	- chap 3 => slide ..
 
 - **Labo**
-	- exercices chap 3 :
+	- exercices chap 3 : 4, 5, 6
+	- correction exercices chap 3 :  1 à 11
+   - exercices chap 3 : 12 à 19 pour lundi
 
+	- [OpenDidact : Rev chap 1 et 2](https://opendidac.heig-vd.in/users/evaluations/cmulnzmgp00ktugn0x0m42lg2) pour lundi
+   
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 05.10.2026 - 11.10.2026 [⬆︎](readme.md#start)
 
