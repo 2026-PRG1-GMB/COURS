@@ -101,6 +101,40 @@
 
 	- [OpenDidact : Rev chap 1 et 2](https://opendidac.heig-vd.in/users/evaluations/cmulnzmgp00ktugn0x0m42lg2) pour lundi
    
+### Question 5 (correction)
+
+Nous cherchons à comparer deux valeurs réelles.
+Compléter ce code pour indiquer si les valeurs sont à considérer comme égales.
+
+**notes**
+
+- la solution n'est pas de passer de `float` à `double` voire à `long double`
+- aide `numeric_limits` [[lien](https://cplusplus.com/reference/limits/numeric_limits/)]
+
+**NB** nous supposons les `float` codés sur 32 bits
+
+~~~cpp
+#include <iostream>
+#include <cstdlib>
+#include <limits>
+#include <iomanip>
+
+using namespace std;
+
+int main() {
+float gauche, droite;
+cin >> gauche >> droite;
+
+    cout << setprecision(6) << std::fixed;
+    cout << gauche << " == " << droite << endl;
+
+    bool correct = /* < à compléter ici > */;
+    cout << "Ce résultat est correct : " << boolalpha << correct << endl;
+
+    return EXIT_SUCCESS;
+}
+~~~
+
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 05.10.2026 - 11.10.2026 [⬆︎](readme.md#start)
 
