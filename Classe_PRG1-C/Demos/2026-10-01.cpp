@@ -26,5 +26,25 @@ int main () {
    float grand = 1e+15;
    cout << boolalpha << ( grand == grand - petit) << endl;
    cout << (float)1'234'567'890 << endl;
+
+   char x = 'A'; // 65
+   char y = '0'; // 48
+   char z;
+
+   z = x + 4;
+
+   cout << x   << endl;
+   cout << x+1 << endl;
+
+   signed   signe    = -1;
+   unsigned nonsigne = 1;
+   cout << (unsigned)signe     << endl;
+   cout << (unsigned)nonsigne  << endl;
+   cout << signe + nonsigne  << endl;
+   cout << (unsigned)signe << " + " << nonsigne  << endl;
+
+   const float var = 12;
+   const int& ref = 12;
+
    return EXIT_SUCCESS;
 }

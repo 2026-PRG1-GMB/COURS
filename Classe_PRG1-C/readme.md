@@ -83,7 +83,7 @@
 - **Labo**
    - Labo-02 : revue
    - exercices chap 2 : à passer en revue
-   - exercices chap 3 :
+   - exercices chap 3 : 1, 2, 3 pour vendredi
 
 ### Vendredi
 - **Cours**
