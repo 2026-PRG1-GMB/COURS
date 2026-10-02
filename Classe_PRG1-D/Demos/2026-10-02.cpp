@@ -39,5 +39,20 @@ float test = 2.1f;
 
    }
 */
+
+   int valeur;
+   do {
+      cout << "saisie [1 - 10]: ";
+      cin >> valeur;
+   } while (valeur < 1 || valeur > 10);
+   cout << valeur;
+
+   valeur = -200;
+   while (valeur < 1 || valeur > 10) {
+      cout << "saisie [1 - 10]: ";
+      cin >> valeur;
+   }
+   cout << valeur;
+
    return EXIT_SUCCESS;
 }
