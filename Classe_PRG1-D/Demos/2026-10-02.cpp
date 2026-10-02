@@ -31,5 +31,13 @@ int main () {
       car -= 'a' - 'A';
    }
 
+   // un switch ne fonctionne pas avec
+   // autre chose que des types énumérables
+   /*
+float test = 2.1f;
+   switch (test) {
+
+   }
+*/
    return EXIT_SUCCESS;
 }
