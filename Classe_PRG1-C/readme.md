@@ -91,7 +91,7 @@
 
 - **Labo**
    - exercices chap 2 : à passer en revue
-   - exercices chap 3 :
+   - exercices chap 3 : 4 à 20
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 05.10.2026 - 11.10.2026 [⬆︎](readme.md#start)
