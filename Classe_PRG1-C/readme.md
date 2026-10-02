@@ -87,7 +87,7 @@
 
 ### Vendredi
 - **Cours**
-   - chap 3 => slide ..
+   - chap 3 => slide 33
 
 - **Labo**
    - exercices chap 2 : à passer en revue
