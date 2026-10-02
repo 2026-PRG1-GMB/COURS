@@ -26,5 +26,10 @@ int main () {
    cout << endl;
    cout << str << endl;
 
+   char car = 'a';
+   if (car >= 'a' && car <= 'z') {
+      car -= 'a' - 'A';
+   }
+
    return EXIT_SUCCESS;
 }
