@@ -92,5 +92,24 @@ int main () {
 */
    cout << (int)'a' << toupper('a') << endl;
    cout << (int)' ' << toupper(' ') << endl;
+
+   {
+      int a = 12;
+      int b = 15;
+      int c;
+
+      if (a > b)
+         c = a;
+      else
+         c = b;
+
+      //  question ? vrai : faux
+      c = a > b ? a : b;
+
+      int i, j, k;
+      i = j = k = 3;
+      4;
+   }
+
    return EXIT_SUCCESS;
 }
