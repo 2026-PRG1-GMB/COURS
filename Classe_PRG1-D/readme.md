@@ -81,10 +81,11 @@
 
 ### Vendredi
 - **Cours**
-	- chap 3 => slide ..
+	- chap 3 => slide 33
 
 - **Labo**
-	- exercices chap 3 :
+	- exercices chap 3 : 11 à 19
+   - [Reévison chap 2](https://opendidac.heig-vd.in/users/evaluations/cmumhrj7m014vugn0aid2vy5g)
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 05.10.2026 - 11.10.2026 [⬆︎](readme.md#start)
