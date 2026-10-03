@@ -92,13 +92,18 @@
 
 ### Mardi
 - **Cours**
+	- chap 3 => à terminer
+	- chap 4 => à commencer
 
 - **Labo**
+	- Labo-02
 
 ### Vendredi
 - **Cours**
+	- chap 4 => ...
 
 - **Labo**
+	- Labo-02
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 12.10.2026 - 18.10.2026 [⬆︎](readme.md#start)
@@ -150,11 +155,6 @@
 ### Mardi
 - **EVALUATION no 1**
 
-- **Cours**
-
-- **Labo**
-
-### Vendredi
 - **Cours**
 
 - **Labo**
