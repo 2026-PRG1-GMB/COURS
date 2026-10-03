@@ -144,14 +144,14 @@ cin >> gauche >> droite;
 	- chap 4 => à commencer
 
 - **Labo**
-	- Labo-02
+	- Labo-03
 
 ### Mardi
 - **Cours**
 	- chap 4 => ...
 
 - **Labo**
-	- Labo-02
+	- Labo-03
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 12.10.2026 - 18.10.2026 [⬆︎](readme.md#start)
