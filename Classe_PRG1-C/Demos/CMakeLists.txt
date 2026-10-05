@@ -11,5 +11,5 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wconversion -Wall -Wextra -pedantic")
 
 # Project files
 add_executable(Demos_PRG1-C
-    2026-10-02.cpp
+    2026-10-05.cpp
 )
