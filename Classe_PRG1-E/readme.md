@@ -140,15 +140,17 @@ cin >> gauche >> droite;
 
 #### Lundi
 - **Cours**
-	- chap 3 => à terminer
-	- chap 4 => à commencer
+	- chap 3 => terminé
+	- [OpenDidact : Rev chap 1 et 2](https://opendidac.heig-vd.in/users/evaluations/cmulnzmgp00ktugn0x0m42lg2) ouvert à la relecture
 
 - **Labo**
 	- Labo-03
 
 ### Mardi
 - **Cours**
-	- chap 4 => ...
+	- exercices chap 3 : à revoir
+   - [OpenDidact : Rev chap 1 et 2](https://opendidac.heig-vd.in/users/evaluations/cmulnzmgp00ktugn0x0m42lg2) à revoir
+   - chap 4 => ...
 
 - **Labo**
 	- Labo-03

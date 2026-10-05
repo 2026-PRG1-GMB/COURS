@@ -99,8 +99,8 @@
 
 ### Lundi
 - **Cours**
-  - chap 3 => à terminer
-  - chap 4 => à commencer
+  - chap 3 => terminé
+  - exercices chap 3 à terminer
 
 ### Jeudi
 - **Labo**
