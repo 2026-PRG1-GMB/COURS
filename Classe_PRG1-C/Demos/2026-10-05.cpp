@@ -7,109 +7,98 @@ using namespace std;
 
 int main () {
 
-   int i=2;
-   bool trouve = true;
-
-   if (trouve)
-      cout << i << endl;
-
-   int jour = 7;
-
-   if (true) {
-      cout << jour << endl;
-      cout << jour << endl;
+   for (char car = 'a'; car <= 'e'; ++car) {
+      for (int nbre=0; nbre<4; ++nbre) {
+         cout << car << nbre << " ";
+      }
+      cout << endl;
    }
+   cout << endl;
 
-   switch (jour) {
-      case 1: cout << "lundi"          << endl; break;
-      case 2: cout << "mardi"          << endl; break;
-      case 3: cout << "mercredi"       << endl; break;
-      case 4: cout << "jeudi"          << endl; break;
-      case 5: cout << "vendredi"       << endl; break;
-      case 6: cout << "samedi"         << endl; break;
-      case 7: cout << "dimanche"       << endl; break;
-      default : cout << "??";
-   }
-
-   switch (jour) {
-      case 1:
-      case 2:
-      case 3:
-      case 4:
-      case 5: cout << "semaine"       << endl; break;
-      case 6:
-      case 7: cout << "week-end"       << endl; break;
-      default : cout << "??";
-   }
-
-   switch (jour) {
-      case 1 ... 5: cout << "semaine"       << endl; break;
-      case 6:
-      case 7: cout << "week-end"       << endl; break;
-      default : cout << "??";
-   }
-
-   char car = '5';
-   int valeur;
-   if (car >= '0' and car <= '9') {
-      valeur = car -'0';
-   } else if (car >= 'a' and car <= 'f')
-      valeur = car - 'a' + 10;
-
-
-   switch (car) {
-      case 'A': valeur = 10; break;
-      case 'B': valeur = 11; break;
-      case 'C': valeur = 12; break;
-      case 'D': valeur = 13; break;
-      case 'E': valeur = 14; break;
-      case 'F': valeur = 15; break;
-   }
-
-   for (char car = 'a'; car < 'z'; car++) {
+   for (char car = 'a'; car <= 'k'; ++car) {
       cout << car;
+      if (car == 'b') continue;
+      if (car == 'd') break;
+      cout << " ... ";
    }
    cout << endl;
 
-   string str = "abcdef";
-   for (size_t i = 0; i <= str.length(); ++i) {
-      cout << str[i]; // << str.at(i);
+   // tourver l'indice de la lettre lettre
+   char lettre = 't';
+   //            0123456789012345678901234567
+   string str = "bonjour a tous, il fait beau";
+   int i=0;
+
+   for (int i=0; i<str.size(); ++i) {
+      if (str.at(i) == lettre) {
+         cout << i << endl;
+         break;
+      }
+   }
+
+   for (char c : str) {
+      if (c == lettre) {
+         cout << i << endl;
+         break;
+      }
+      ++i;
+   }
+
+   bool sotir = false;
+   for (char car = 'a'; car <= 'e'; ++car) {
+      for (int nbre=0; nbre<4; ++nbre) {
+         cout << car << nbre << " ";
+         if (nbre > 2) {
+            sotir = true;
+            break;
+         }
+      }
+      if (sotir)
+         break;
+      cout << endl;
    }
    cout << endl;
 
-   for (char& c : str) {
-      cout << c;
-      c = toupper(c);
-      cout << c;
+   // exercice
+   // afficher toutes valeurs comprises entre 0 et n (constante dans le code)
+   // au format [0, 1, 2, 3, .., n]
+
+   const int n = 0;
+   cout << '[';
+   for (int nbre=0; nbre<=n; ++nbre) {
+      if (nbre)
+         cout << ", ";
+      cout << nbre;
    }
-   cout << endl;
-   cout << str << endl;
-/*
-   cout << "saisie : ";
-   if (cin >> valeur) {
-      cout << valeur;
+   cout << ']' << endl;
+
+   // exercice
+   // idem mais depuis     string valeurs = "abcdefghijkl"
+   // [a, b, c, d, ..., l]
+   string valeurs = "abcdefghijkl";
+   valeurs = "";
+   cout << '[';
+   for (size_t i=0; i<valeurs.length(); ++i) {
+      if (i)
+         cout << ", ";
+      cout << valeurs.at(i);
    }
-*/
-   cout << (int)'a' << toupper('a') << endl;
-   cout << (int)' ' << toupper(' ') << endl;
+   cout << ']' << endl;
 
-   {
-      int a = 12;
-      int b = 15;
-      int c;
+   int saisie;
+   bool erreur;
+   do {
+      cout << "valeur [-1 .. 12] : ";
+      cin >> saisie;
+      erreur = not cin.good() or saisie < -1 or saisie > 12;
+      if (erreur) {
+         cin.clear();
+         cin.ignore(numeric_limits<streamsize>::max(), '\n');
+         cout << "tu sais pas lire .. recommence !" << endl;
+      }
+   } while (erreur);
 
-      if (a > b)
-         c = a;
-      else
-         c = b;
-
-      //  question ? vrai : faux
-      c = a > b ? a : b;
-
-      int i, j, k;
-      i = j = k = 3;
-      4;
-   }
+   cout << "votre saisie : " << saisie << endl;
 
    return EXIT_SUCCESS;
 }
