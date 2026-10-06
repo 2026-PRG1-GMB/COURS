@@ -92,8 +92,9 @@
 
 ### Mardi
 - **Cours**
-	- chap 3 => à terminer
-	- chap 4 => à commencer
+	- chap 3 => terminé
+   - revue Revision chap 2
+   - exercices chap 3 à terminer pour lundi
 
 - **Labo**
 	- Labo-03
