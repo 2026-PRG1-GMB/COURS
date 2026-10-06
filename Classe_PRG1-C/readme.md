@@ -105,6 +105,7 @@
 ### Jeudi
 - **Labo**
    - Labo-03
+  - [Révision Chap 3](https://opendidac.heig-vd.in/users/evaluations/cmuwg30go02lkugn06qlkoqm8)
 
 ### Vendredi
 - **Cours**

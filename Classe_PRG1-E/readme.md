@@ -154,6 +154,7 @@ cin >> gauche >> droite;
 
 - **Labo**
 	- Labo-03 : suite et fin
+	- [Révision Chap 3](https://opendidac.heig-vd.in/users/evaluations/cmuwg7ljo02nfugn0poolx8hw)
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 12.10.2026 - 18.10.2026 [⬆︎](readme.md#start)
