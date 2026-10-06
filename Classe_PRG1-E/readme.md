@@ -148,12 +148,12 @@ cin >> gauche >> droite;
 
 ### Mardi
 - **Cours**
-	- exercices chap 3 : à revoir
-   - [OpenDidact : Rev chap 1 et 2](https://opendidac.heig-vd.in/users/evaluations/cmulnzmgp00ktugn0x0m42lg2) à revoir
-   - chap 4 => ...
+	- exercices chap 3 : à finir pour lundi prochain
+   - [OpenDidact : Rev chap 1 et 2](https://opendidac.heig-vd.in/users/evaluations/cmulnzmgp00ktugn0x0m42lg2) revu en classe
+   - chap 4 => sllide 20
 
 - **Labo**
-	- Labo-03
+	- Labo-03 : suite et fin
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 12.10.2026 - 18.10.2026 [⬆︎](readme.md#start)
