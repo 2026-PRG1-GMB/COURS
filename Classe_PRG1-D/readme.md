@@ -102,10 +102,11 @@
 
 ### Vendredi
 - **Cours**
-	- chap 4 => ...
+	- chap 4 => slide 20
+   - exercices chap 4 : 1 à 5 pour la semaine prochaine
 
 - **Labo**
-	- Labo-03
+	- Labo-03 à terminer pour lundi
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 12.10.2026 - 18.10.2026 [⬆︎](readme.md#start)
