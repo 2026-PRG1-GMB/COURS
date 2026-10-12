@@ -104,5 +104,63 @@ int main () {
       const int* const ptr2 = &variable;  // référence constante
    }
 
+   // exercices
+   // ******         // boucle seule no 1
+   // *    *         // boucle extérieure
+   // *    *
+   // *    *
+   // ******         // boucle seule no 2
+
+   // V boucle extérieure
+   // => boucle intérieure
+
+   for (int n=0; n<5; n++) {
+      cout << "*";
+   }
+   cout << endl;
+   for (int n=0; n<2; n++) {
+      cout << "*";
+      for (int m=0; m<3; m++) {
+         cout << " ";
+      }
+      cout << "*" << endl;
+   }
+   for (int n=0; n<5; n++) {
+      cout << "*";
+   }
+
+   // *
+   // **
+   // ****
+   // ********
+
+   cout << endl;
+
+   for (int n=1; n<5; n++) {
+      for (int m=0; m<2*n; m++) {
+         cout << "*";
+      }
+      cout << endl;
+   }
+   cout << endl;
+
+
+   // suite harmonique
+   // 1/1 + 1/2 + .. + 1/n
+   int n = 12;
+   cout << 1;
+   double somme = 0.0;
+   for (int i=2; i<=n; i++) {
+      cout << "+ ";
+      cout << "1/" << i << " ";
+      somme += 1.0 / static_cast<double>(n);
+   }
+
+   cout << fixed << setprecision(4);
+   cout << "somme = " << somme << endl;
+
+
+
+
    return EXIT_SUCCESS;
 }
