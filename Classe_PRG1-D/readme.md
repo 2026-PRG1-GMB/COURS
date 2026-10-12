@@ -103,7 +103,7 @@
 ### Vendredi
 - **Cours**
 	- chap 4 => slide 20
-   - exercices chap 4 : 1 à 5 pour la semaine prochaine
+    - exercices chap 4 : 1 à 5 pour la semaine prochaine
 
 - **Labo**
 	- Labo-03 à terminer pour lundi
@@ -113,18 +113,25 @@
 
 ### Mardi
 - **Cours**
+	- chap 4 => slide ..
 
 - **Labo**
+    - Revue Exercices chap 3
+    - Revue [Révision Chap 3](https://opendidac.heig-vd.in/users/evaluations/cmuwg6kti02mjugn08269qp15)
+    - Exercices chap 4 :
 
 ### Vendredi
 - **Cours**
+	- chap 4 => slide ..
 
 - **Labo**
+	- chap 4 => slide ..
+	- Exercices chap 4 :
 
 ---
 > ## 19.10.2026 - 25.10.2026 [⬆︎](readme.md#start)
 
-# PAS DE COURS
+# PAS DE COURS ☀️
 
 ---
 > ## <a name="semaine_06"></a>SEMAINE 06 - 26.10.2026 - 01.11.2026 [⬆︎](readme.md#start)
@@ -268,4 +275,3 @@
 > ## 01.02.2026 - 07.02.2027 [⬆︎](readme.md#start)
 
 # EVALUATION
-

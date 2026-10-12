@@ -161,18 +161,25 @@ cin >> gauche >> droite;
 
 #### Lundi
 - **Cours**
+	- chap 4 => slide ..
 
 - **Labo**
+	- Revue Exercices chap 3
+	- Revue [Révision Chap 3](https://opendidac.heig-vd.in/users/evaluations/cmuwg7ljo02nfugn0poolx8hw)
+	- Exercices chap 4 :
 
 ### Mardi
 - **Cours**
+	- chap 4 => slide ..
 
 - **Labo**
+	- chap 4 => slide ..
+	- Exercices chap 4 :
 
 ---
 > ## 19.10.2026 - 25.10.2026 [⬆︎](readme.md#start)
 
-# PAS DE COURS
+# PAS DE COURS ☀️
 
 ---
 > ## <a name="semaine_06"></a>SEMAINE 06 - 26.10.2026 - 01.11.2026 [⬆︎](readme.md#start)
@@ -317,4 +324,3 @@ cin >> gauche >> droite;
 > ## 01.02.2026 - 07.02.2027 [⬆︎](readme.md#start)
 
 # EVALUATION
-
