@@ -118,7 +118,7 @@
 
 ### Lundi
 - **Cours**
-    - chap 4 => slide ..
+    - chap 4 => slide 27
 
 ### Jeudi
 - **Labo**
@@ -129,9 +129,9 @@
 ### Vendredi
 - **Cours**
     - chap 4 => slide ..
-    - Exercices chap 4 :
 
 - **Labo**
+   - Exercices chap 4 :
 
 ---
 > ## 19.10.2026 - 25.10.2026 [⬆︎](readme.md#start)
