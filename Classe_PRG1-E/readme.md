@@ -161,7 +161,7 @@ cin >> gauche >> droite;
 
 #### Lundi
 - **Cours**
-	- chap 4 => slide ..
+	- chap 4 => slide 27
 
 - **Labo**
 	- Revue Exercices chap 3
