@@ -166,15 +166,14 @@ cin >> gauche >> droite;
 - **Labo**
 	- Revue Exercices chap 3
 	- Revue [Révision Chap 3](https://opendidac.heig-vd.in/users/evaluations/cmuwg7ljo02nfugn0poolx8hw)
-	- Exercices chap 4 :
+	- Exercices chap 4 => .. 13
 
 ### Mardi
 - **Cours**
-	- chap 4 => slide ..
+	- chap 4 => slide 40
 
 - **Labo**
-	- chap 4 => slide ..
-	- Exercices chap 4 :
+	- Exercices chap 4 => .. 18
 
 ---
 > ## 19.10.2026 - 25.10.2026 [⬆︎](readme.md#start)
