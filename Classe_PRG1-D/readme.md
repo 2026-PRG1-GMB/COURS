@@ -113,12 +113,12 @@
 
 ### Mardi
 - **Cours**
-	- chap 4 => slide ..
+	- chap 4 => slide 27
 
 - **Labo**
     - Revue Exercices chap 3
     - Revue [Révision Chap 3](https://opendidac.heig-vd.in/users/evaluations/cmuwg6kti02mjugn08269qp15)
-    - Exercices chap 4 :
+    - Exercices chap 4 : => ex 13
 
 ### Vendredi
 - **Cours**
