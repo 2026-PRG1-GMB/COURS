@@ -146,6 +146,7 @@
 
 ### Jeudi
 - **Labo**
+  - Condition de rendu des laboratoires
 
 ### Vendredi
 - **Cours**
