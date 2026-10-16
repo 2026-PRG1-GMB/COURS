@@ -190,6 +190,7 @@ cin >> gauche >> droite;
 
 ### Mardi
 - **Cours**
+	- Condition de rendu des laboratoires
 
 - **Labo**
 	
