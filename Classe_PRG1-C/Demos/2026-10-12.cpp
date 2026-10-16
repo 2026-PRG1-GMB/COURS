@@ -85,5 +85,22 @@ int main () {
    }
 
 
+   float  real_f = 3.14f;
+   double real_d = 7.28;
+
+   cout << real_f << " " << &real_f << endl;
+   cout << real_d << " " << &real_d << endl;
+
+//   float* ptr_test = &real_d;
+
+   {
+       int entier = 21;
+      const int&    ref_i = entier;
+      const double& ref_d = entier;
+
+      const int* ptr_i    = &entier;
+      const double* ptr_d = &entier;
+   }
+
    return EXIT_SUCCESS;
 }
