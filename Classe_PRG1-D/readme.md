@@ -137,15 +137,20 @@
 
 ### Mardi
 - **Cours**
+	- Cpp Reference Card
+	- chap 4 => slide ..
 
 - **Labo**
 	- Condition de rendu des laboratoires
+	- Labo-04
 
 ### Vendredi
 - **Cours**
+	- chap 4 => slide ..
 
 - **Labo**
-	
+  - Labo-04
+
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 02.11.2026 - 08.11.2026 [⬆︎](readme.md#start)
 

@@ -185,15 +185,20 @@ cin >> gauche >> droite;
 
 ### Lundi
 - **Cours**
+	- Cpp Reference Card
+	- chap 4 => slide ..
 
 - **Labo**
+	- Labo-04
 
 ### Mardi
 - **Cours**
 	- Condition de rendu des laboratoires
+	- chap 4 => slide ..
 
 - **Labo**
-	
+  - Labo-04
+
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 02.11.2026 - 08.11.2026 [⬆︎](readme.md#start)
 
