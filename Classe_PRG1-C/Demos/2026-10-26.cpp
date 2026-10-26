@@ -5,32 +5,17 @@
 
 using namespace std;
 
+int f(int i1, int i2, double d=3.1);
 // ----------------------------------------
-void afficher(const string& str) {
-   cout << str;
-}
 
-// ----------------------------------------
-char& car_pos(string& str, size_t pos) {
-   return str.at(pos);
-}
-
-int& plus_la() {
-   int a = 5;
-   return a;
-}
-
-// ----------------------------------------
 int main () {
-    string message = "coucou";
-   afficher(message);        cout << endl;
-   afficher("coucou");  cout << endl;
 
-   cout << message.at(3);
-   message.at(3) = 'C';
-
-   cout << endl;
-   cout << car_pos("coucou", 3);
-
+   int resultat = f(1, 2);
    return EXIT_SUCCESS;
+}
+
+// ----------------------------------------
+int f(int i1, int i2, double d) {
+   cout << i1 << " " << i2 << " " << d << endl;
+   return i1 + i2;
 }
