@@ -186,15 +186,16 @@ cin >> gauche >> droite;
 ### Lundi
 - **Cours**
 	- Cpp Reference Card
-	- chap 4 => slide ..
+	- chap 4 => terminé
+   - exercices chap 4 à terminé
 
 - **Labo**
+	- Condition de rendu des laboratoires
 	- Labo-04
 
 ### Mardi
 - **Cours**
-	- Condition de rendu des laboratoires
-	- chap 4 => slide ..
+	- chap 5 => slide ..
 
 - **Labo**
   - Labo-04
