@@ -144,7 +144,8 @@
 ### Lundi
 - **Cours**
   - Cpp Reference Card
-  - chap 4 => slide ..
+  - chap 4 => slide 71
+  - exercices chap 4 à faire pour vendredi
 
 ### Jeudi
 - **Labo**
