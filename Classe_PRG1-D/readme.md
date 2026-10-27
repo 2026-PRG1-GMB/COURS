@@ -138,7 +138,10 @@
 ### Mardi
 - **Cours**
 	- Cpp Reference Card
-	- chap 4 => slide ..
+	- chap 4 => slide fin
+   - exercices chap 4 à terminer
+   - [Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqqjtqw048bugn06ed1qz11)
+
 
 - **Labo**
 	- Condition de rendu des laboratoires

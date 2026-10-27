@@ -197,6 +197,7 @@ cin >> gauche >> droite;
 - **Cours**
 	- chap 5 => slide 20
    - exercices chap 5 1 à 6
+	- [Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqql1k4049gugn0ko6bxdiq)
 
 - **Labo**
   - Labo-04

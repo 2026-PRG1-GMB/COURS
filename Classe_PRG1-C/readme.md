@@ -146,6 +146,7 @@
   - Cpp Reference Card
   - chap 4 => slide 71
   - exercices chap 4 à faire pour vendredi
+  - [Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqqem2s046xugn0j909st9f)
 
 ### Jeudi
 - **Labo**
