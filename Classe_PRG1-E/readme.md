@@ -195,7 +195,8 @@ cin >> gauche >> droite;
 
 ### Mardi
 - **Cours**
-	- chap 5 => slide ..
+	- chap 5 => slide 20
+   - exercices chap 5 1 à 6
 
 - **Labo**
   - Labo-04
