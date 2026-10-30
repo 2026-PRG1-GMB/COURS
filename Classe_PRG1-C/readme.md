@@ -155,7 +155,8 @@
 
 ### Vendredi
 - **Cours**
-  - chap 4 => slide ..
+  - chap 4 => slide fin
+  - chap 5 => slide 16
 
 - **Labo**
   - Labo-04

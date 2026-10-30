@@ -149,7 +149,7 @@
 
 ### Vendredi
 - **Cours**
-	- chap 4 => slide ..
+	- chap 5 => slide 15
 
 - **Labo**
   - Labo-04
