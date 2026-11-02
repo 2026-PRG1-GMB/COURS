@@ -207,8 +207,7 @@ cin >> gauche >> droite;
 
 ### Lundi
 - **Cours**
-  - [Revue Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqql1k4049gugn0ko6bxdiq)
-  - chap 5 => slide ..
+  - chap 5 => slide 32
 
 - **Labo**
   - revue exercices chap 5 : 1 à 6
@@ -216,6 +215,7 @@ cin >> gauche >> droite;
 
 ### Mardi
 - **Cours**
+  - [Revue Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqql1k4049gugn0ko6bxdiq)
   - chap 5 => slide ..
 
 - **Labo**
