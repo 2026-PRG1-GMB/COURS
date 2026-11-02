@@ -175,6 +175,7 @@
 ### Vendredi
 - **Cours**
   - Revue OpenDidact
+  - [Installation OpenDidact - App](https://opendidac.heig-vd.in/downloads)
   - ⚠️ insertion dans un vecteur à revoir
   - chap 5 => slide ..
 
