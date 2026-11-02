@@ -195,9 +195,9 @@ cin >> gauche >> droite;
 
 ### Mardi
 - **Cours**
-	- chap 5 => slide 20
-   - exercices chap 5 1 à 6
-	- [Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqql1k4049gugn0ko6bxdiq)
+  - chap 5 => slide 20
+  - exercices chap 5 : 1 à 6
+  - [Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqql1k4049gugn0ko6bxdiq)
 
 - **Labo**
   - Labo-04
@@ -207,13 +207,19 @@ cin >> gauche >> droite;
 
 ### Lundi
 - **Cours**
+  - [Revue Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqql1k4049gugn0ko6bxdiq)
+  - chap 5 => slide ..
 
 - **Labo**
+  - revue exercices chap 5 : 1 à 6
+  - exercices chap 5
 
 ### Mardi
 - **Cours**
+  - chap 5 => slide ..
 
 - **Labo**
+  - exercices chap 5
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 09.11.2026 - 15.11.2026 [⬆︎](readme.md#start)

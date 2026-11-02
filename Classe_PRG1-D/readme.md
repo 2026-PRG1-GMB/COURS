@@ -159,13 +159,18 @@
 
 ### Mardi
 - **Cours**
+   - [Revue Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqqjtqw048bugn06ed1qz11)
+  - chap 5 => slide .. 
 
 - **Labo**
+  - Exercices chap 5
 
 ### Vendredi
 - **Cours**
+  - chap 5 => slide .. 
 
 - **Labo**
+  - Exercices chap 5
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 09.11.2026 - 15.11.2026 [⬆︎](readme.md#start)
