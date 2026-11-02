@@ -6,7 +6,7 @@
 using namespace std;
 
 int    additionner (int i1)                  { return i1; }
-double additionner (int i1,    double i2=0)    { return i1 + i2; }
+double additionner (int i1,    double i2=0)  { return i1 + i2; }
 
 void afficher(int i)  { cout << i; }
 void afficher(int* i) { cout << *i; }

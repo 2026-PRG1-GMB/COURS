@@ -166,8 +166,7 @@
 
 ### Lundi
 - **Cours**
-  - Revue OpenDidact
-  - chap 5 => slide ..
+  - chap 5 => slide 28
 
 ### Jeudi
 - **Labo**
@@ -175,6 +174,8 @@
 
 ### Vendredi
 - **Cours**
+  - Revue OpenDidact
+  - ⚠️ insertion dans un vecteur à revoir
   - chap 5 => slide ..
 
 - **Labo**
