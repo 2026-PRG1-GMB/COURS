@@ -217,6 +217,7 @@ cin >> gauche >> droite;
 - **Cours**
   - [Revue Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqql1k4049gugn0ko6bxdiq)
   - [Installation OpenDidact - App](https://opendidac.heig-vd.in/downloads)
+  - [Test OpenDidac - App - code LU3VJG](https://opendidac.heig-vd.in)
   - chap 5 => slide ..
 
 - **Labo**
