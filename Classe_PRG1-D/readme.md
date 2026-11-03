@@ -164,7 +164,7 @@
 
 - **Labo**
   - Exercices chap 5
-  - [Installation OpenDidact - App](https://opendidac.heig-vd.in/downloads)
+  - [Installation OpenDidact - code : CJK36D](https://opendidac.heig-vd.in/downloads)
 
 ### Vendredi
 - **Cours**
