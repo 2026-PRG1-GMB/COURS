@@ -160,7 +160,7 @@
 ### Mardi
 - **Cours**
    - [Revue Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqqjtqw048bugn06ed1qz11)
-  - chap 5 => slide .. 
+  - chap 5 => slide 32
 
 - **Labo**
   - Exercices chap 5
