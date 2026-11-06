@@ -177,7 +177,7 @@
   - Revue OpenDidact
   - [Installation OpenDidact - code : JGG3T3](https://opendidac.heig-vd.in/downloads)
   - ⚠️ insertion dans un vecteur à revoir
-  - chap 5 => slide ..
+  - chap 5 => slide 52
 
 - **Labo**
   - Exercices chap 5
