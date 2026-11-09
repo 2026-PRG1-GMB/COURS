@@ -187,12 +187,16 @@
 
 ### Lundi
 - **Cours**
+  - chap 5 => à terminer
+  - préparation Evaluation no 1
 
 ### Mardi
 - **EVALUATION no 1**
 
 ### Jeudi
 - **Labo**
+  - revue exercices chap 5
+  - exercices chap 6
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 16.11.2026 - 22.11.2026 [⬆︎](readme.md#start)

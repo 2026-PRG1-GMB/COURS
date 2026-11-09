@@ -228,8 +228,12 @@ cin >> gauche >> droite;
 
 ### Lundi
 - **Cours**
+  - chap 5 => à terminer
+  - Chap 6 => ...
 
 - **Labo**
+  - revue exercices chap 5
+  - préparation Evaluation no 1
 
 ### Mardi
 - **EVALUATION no 1**

@@ -168,7 +168,7 @@
 
 ### Vendredi
 - **Cours**
-  - chap 5 => slide .. 
+  - chap 5 => terminé
 
 - **Labo**
   - Exercices chap 5
@@ -180,8 +180,12 @@
 - **EVALUATION no 1**
 
 - **Cours**
+  - chap 5 => à terminer
+  - Chap 6 => ...
 
 - **Labo**
+  - revue exercices chap 5
+  - exercices chap 6
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 16.11.2026 - 22.11.2026 [⬆︎](readme.md#start)

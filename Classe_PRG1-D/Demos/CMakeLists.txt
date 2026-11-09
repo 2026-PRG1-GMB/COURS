@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(Demos_PRG1-A LANGUAGES CXX)
+project(Demos_PRG1-D LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -11,5 +11,5 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wconversion -Wall -Wextra -pedantic")
 
 # Project files
 add_executable(Demos_PRG1-D
-    2026-11-03.cpp
+    2026-11-06.cpp
 )
