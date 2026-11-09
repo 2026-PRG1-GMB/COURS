@@ -189,6 +189,7 @@
 - **Cours**
   - chap 5 => à terminer
   - préparation Evaluation no 1
+  - chap 6 => slide 6
 
 ### Mardi
 - **EVALUATION no 1**
