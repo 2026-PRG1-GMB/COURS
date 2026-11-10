@@ -229,7 +229,7 @@ cin >> gauche >> droite;
 ### Lundi
 - **Cours**
   - chap 5 => à terminer
-  - Chap 6 => ...
+  - Chap 6 => slide 11
 
 - **Labo**
   - revue exercices chap 5

@@ -181,7 +181,7 @@
 
 - **Cours**
   - chap 5 => à terminer
-  - Chap 6 => ...
+  - Chap 6 => 22
 
 - **Labo**
   - revue exercices chap 5
