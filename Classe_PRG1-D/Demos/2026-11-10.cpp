@@ -12,21 +12,20 @@ void afficher(const vector<int> tab, size_t pos) {
 }
 
 int main () {
-
    try {
-      vector<int> tab {1, 2, 3, 4, 5, 6, 7, 8, 9};
-//      cout << tab[12]      << endl;
-//      cout << tab.at(12) << endl;
-      afficher(tab, 12);
-   }
-   catch (out_of_range& e) {
-      cout << "out_of_range: " << e.what() << endl;
-   }
-   catch (logic_error& e) {
-      cout << "logic_error: " << e.what() << endl;
+      try {
+         vector<int> tab {1, 2, 3, 4, 5, 6, 7, 8, 9};
+         //      cout << tab[12]      << endl;
+         //      cout << tab.at(12) << endl;
+         afficher(tab, 12);
+      }
+      catch (exception& e) {
+         cout << "les fichiers sont fermés" << endl;
+         throw;
+      }
    }
    catch (exception& e) {
-      cout << "exception: " << e.what() << endl;
+      cout << "traitement final" << endl;
    }
 
    return EXIT_SUCCESS;
