@@ -192,14 +192,20 @@
 
 ### Mardi
 - **Cours**
+  - exercices chap 5
+  - Chap 6 => slide ..
+  - exercices chap 6
 
 - **Labo**
+  - Labo 05
 
 ### Vendredi
 - **Cours**
+  - Chap 6 => slide fin
+  - exercices chap 6
 
 - **Labo**
-
+  - Labo 05
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 23.11.2026 - 29.11.2026 [⬆︎](readme.md#start)
@@ -208,6 +214,7 @@
 - **Cours**
 
 - **Labo**
+  - Labo 05
 
 ### Vendredi
 - **Cours**
