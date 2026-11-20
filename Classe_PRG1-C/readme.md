@@ -205,7 +205,7 @@
 ### Lundi
 - **Cours**
   - exercices chap 5
-  - Chap 6 => slide ..
+  - Chap 6 => slide 23
   - exercices chap 6
 
 ### Jeudi
