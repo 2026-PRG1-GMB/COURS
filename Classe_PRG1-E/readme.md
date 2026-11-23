@@ -263,14 +263,18 @@ cin >> gauche >> droite;
 
 ### Lundi
 - **Cours**
+  - [Révision Chap 5](https://opendidac.heig-vd.in/users/evaluations/cmwoxsjuj0ejqugn0n7jw3fac)
+  - Chap 7 => slide ...
 
 - **Labo**
   - Labo 05
 
 ### Mardi
 - **Cours**
+  - Chap 7 => slide ...
 
 - **Labo**
+  - exercices chap 7
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 30.11.2026 - 06.12.2026 [⬆︎](readme.md#start)

@@ -225,6 +225,8 @@
 
 ### Lundi
 - **Cours**
+  - [Révision Chap 5](https://opendidac.heig-vd.in/users/evaluations/cmwoxhb740ehkugn0z7961oaf)
+  - Chap 7 => slide ...
 
 ### Jeudi
 - **Labo**
@@ -232,8 +234,10 @@
 
 ### Vendredi
 - **Cours**
+  - Chap 7 => slide ...
 
 - **Labo**
+  - exercices chap 7
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 30.11.2026 - 06.12.2026 [⬆︎](readme.md#start)
