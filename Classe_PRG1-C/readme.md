@@ -226,7 +226,7 @@
 ### Lundi
 - **Cours**
   - [Révision Chap 5](https://opendidac.heig-vd.in/users/evaluations/cmwoxhb740ehkugn0z7961oaf)
-  - Chap 7 => slide ...
+  - Chap 7 => slide 10
 
 ### Jeudi
 - **Labo**
@@ -244,6 +244,7 @@
 
 ### Lundi
 - **Cours**
+  - [Revue Révision Chap 5](https://opendidac.heig-vd.in/users/evaluations/cmwoxhb740ehkugn0z7961oaf)
 
 ### Jeudi
 - **Labo**
