@@ -264,7 +264,7 @@ cin >> gauche >> droite;
 ### Lundi
 - **Cours**
   - [Révision Chap 5](https://opendidac.heig-vd.in/users/evaluations/cmwoxsjuj0ejqugn0n7jw3fac)
-  - Chap 7 => slide ...
+  - Chap 7 => slide 28
 
 - **Labo**
   - Labo 05
