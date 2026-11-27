@@ -234,7 +234,8 @@
 
 ### Vendredi
 - **Cours**
-  - Chap 7 => slide ...
+  - Chap 7 => slide fin
+  - Chap 8 => slide 13
 
 - **Labo**
   - exercices chap 7

@@ -213,7 +213,7 @@
 ### Mardi
 - **Cours**
   - [Révision Chap 5](https://opendidac.heig-vd.in/users/evaluations/cmwoxqzex0eipugn00o3yqk5t)
-  - Chap 7 => slide ...
+  - Chap 7 => slide 14
 
 - **Labo**
   - Labo 05
